@@ -4,6 +4,7 @@ build/
 dist/
 fonts/
 *.spec
+*.bat
 
 __pycache__/
 *.py[cod]
